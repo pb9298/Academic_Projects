@@ -1,0 +1,7 @@
+repair,2019-12-02,assignedTo is required and it should be alphanumeric and its length should be equal to 7,
+repair10,2019-12-02,assignedTo is required and it should be alphanumeric and its length should be equal to 7,
+r#!*?%9,2019-12-02,assignedTo is required and it should be alphanumeric and its length should be equal to 7,
+repair9,,,assignedDate is required and it should be today's date
+repair9,2019-12-01,,assignedDate is required and it should be today's date
+repair10,2019-12-01,assignedTo is required and it should be alphanumeric and its length should be equal to 7,assignedDate is required and it should be today's date
+repair9,2019-12-02,,

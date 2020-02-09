@@ -1,0 +1,6 @@
+1,All,11/23/2019,09:00,10:00,,,Facility Type,Name,Interval,Duration,Venue,Badminton courts,BMC10,30 min,Same day,Indoor
+2,All,,09:00,10:00,Date should not be empty,,,,,,,,,,,
+3,All,11/23/2019,10:00,09:00,,End time should be greater than Start time,,,,,,,,,,
+4,All,Date should not be empty,10:00,09:00,,End time should be greater than Start time,,,,,,,,,,
+5,Multipurpose rooms,11/26/2019,23:00,00:00,,,Facility Type,Name,Interval,Duration,Venue,Multipurpose rooms,MR1,1 hour,Same day,Indoor
+6,Basketball courts (Outdoor),11/26/2019,06:00,07:00,,,Facility Type,Name,Interval,Duration,Venue,Basketball courts (Outdoor),OBBC2,2 hours,7-day,Outdoor

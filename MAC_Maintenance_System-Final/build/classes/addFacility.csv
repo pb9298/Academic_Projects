@@ -1,0 +1,8 @@
+1,Multipurpose rooms,MR1,1 hour,Same day,Indoor,,Facility already exists
+2,Basketball courts (Indoor),IBBC1,1 hour,Same day,Outdoor,,Facility already exists
+3,Racquetball courts,,30 min,7-day,Indoor,name is required and length should be in range of 3 and 10 (inclusive) and should have only Capital letters and numbers,
+4,Multipurpose rooms,mr1,1 hour,Same day,Indoor,name is required and length should be in range of 3 and 10 (inclusive) and should have only Capital letters and numbers,
+5,Multipurpose rooms,MR@1,1 hour,Same day,Indoor,name is required and length should be in range of 3 and 10 (inclusive) and should have only Capital letters and numbers,
+6,Multipurpose rooms,MR123456789,1 hour,Same day,Indoor,name is required and length should be in range of 3 and 10 (inclusive) and should have only Capital letters and numbers,
+7,Multipurpose rooms,M1,1 hour,Same day,Indoor,name is required and length should be in range of 3 and 10 (inclusive) and should have only Capital letters and numbers,
+8,Multipurpose rooms,MR21,1 hour,Same day,Indoor,,Facility added successfully

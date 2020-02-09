@@ -1,0 +1,4 @@
+1,23:00,23:00,,End time should be greater than Start time,Reservation request failed
+2,23:00,22:00,,End time should be greater than Start time,Reservation request failed
+3,18:00,19:00,,,Reservation request successful
+4,23:00,24:00,,,Reservation request successful

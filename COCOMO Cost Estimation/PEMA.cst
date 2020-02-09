@@ -1,0 +1,80 @@
+998 Type:           SystemStar estimate
+0   Written:        03/21/19 14:40:31
+900 File Version:   9003
+901 SW Version:     Demo
+902 Build:          3.0.3.1003
+904 Sequence Number:00241144760506281424217012056
+905 Version:        SystemStar 3.0 Demo
+906 Serial Number:  83 - 01126                              
+estcreate "PEMA"
+dbselect "COCOMO_II.2000_Waterfall"
+calcmodel intermediate
+prec 5
+flex 1
+resl 4
+team 5
+pmat 4
+wsname *
+sced  nominal
+amcf *
+wsstartpoint 2
+rename "Component1"
+ACAP     high
+AEXP     high
+DATA     high
+PCAP     high
+STOR  very hi
+TIME  very hi
+TOOL  nominal
+CD00     high
+CD01     high
+CD02  nominal
+CD03     high
+CD04      low
+CD05     high
+wsslocdist y  0 1        5000
+RQCOST   7000
+PDCOST   6600
+DDCOST  10000
+CTCOST  19600
+ITCOST  19200
+MNCOST      0
+increment 1
+set auto on
+910 Lines:                       49
+911 Characters:                 763
+912 File Size:                 1071
+913 Checksum 1:                   8
+914 Checksum 2:                  92
+915 Checksum 3: 0462233717952832654
+1000 "PEMA"
+1001 "    "
+1002 152
+1003  100
+1004   1.0000
+1006      13.2821
+1007      13.2821
+1008   0.8423
+1009       8.1132
+1010       8.1132
+1011         5000
+1012         5000
+1013    1.0436
+1014    0.3067
+1015 2
+1016 5
+1017 1
+1018 4
+1019 5
+1020 4
+1021    0
+1022    2.9400
+1023   0.91000
+1024   1.00000
+1025    3.6700
+1026   0.28000
+1027   0.20000
+1028   0.13360
+1029   0.00000
+1030 s
+1031 ""

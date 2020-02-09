@@ -1,0 +1,4 @@
+1,pending,approved,decline,cancelled,completed,23:00,23:00,,End time should be greater than Start time,Reservation request failed,14,15
+2,pending,approved,decline,cancelled,completed,23:00,22:00,,End time should be greater than Start time,Reservation request failed,14,15
+3,pending,approved,decline,cancelled,completed,18:00,19:00,,,Reservation request successful,18,19
+4,pending,approved,decline,cancelled,completed,23:00,24:00,,,Reservation request successful,23,24
