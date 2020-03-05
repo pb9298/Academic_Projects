@@ -1,0 +1,30 @@
+db.TEAM.aggregate([
+{
+	$lookup:
+	{
+		from: "GAME",
+		localField: "TeamID",
+		foreignField: "TeamID1",
+		as: "TeamMatch"
+	}},
+{
+	$lookup:
+	{
+		from: "Stadium",
+		localField: "TeamMatch.SID",
+		foreignField: "SID",
+		as: "StadiumID"
+	}},
+{
+	$project:
+	{
+		TeamID: 0,
+		_id: 0,
+		Continent: 0,
+		League: 0,
+		"TeamMatch.SID":0,
+		"TeamMatch._id":0,
+		"TeamMatch.Groups":0,
+		"TeamMatch.GameID":0,
+	}}
+	]).pretty()
